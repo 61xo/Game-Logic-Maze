@@ -40,15 +40,15 @@ The project implements several sophisticated systems to ensure a smooth and chal
 ### Option 1: Direct Play (Windows Build)
 If you just want to play the game, download the standalone executable:
 1. Navigate to the [Releases](https://github.com/61xo/Game-Logic-Maze/Logic-Maze) section.
-2. Download `Logic-Maze`.
-3. Extract and run `Logic-Maze.exe`.
+2. Download `Logic Maze`.
+3. Extract and run `Logic Maze.exe`.
 
 > **Note for Linux (Arch) Users:** You can run the executable using **Wine**:
 > ```bash
-> wine TwinReunion.exe
+> wine Logic Maze.exe
 > ```
 
 ### Option 2: Run in Unity (Development)
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/61xo/Game-Logic-Maze.git](https://github.com/61xo/Game-Logic-Maze.git)
+   git clone [https://github.com/61xo/Game-Logic-Maze.git]
