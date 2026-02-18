@@ -51,4 +51,4 @@ If you just want to play the game, download the standalone executable:
 ### Option 2: Run in Unity (Development)
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/61xo/Game-Logic-Maze.git]
+   git clone https://github.com/61xo/Game-Logic-Maze.git
