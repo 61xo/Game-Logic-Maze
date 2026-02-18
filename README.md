@@ -39,7 +39,7 @@ The project implements several sophisticated systems to ensure a smooth and chal
 
 ### Option 1: Direct Play (Windows Build)
 If you just want to play the game, download the standalone executable:
-1. Navigate to the [Releases](https://github.com/61xo/Game-Logic-Maze/Logic-Maze) section.
+1. Navigate to the [Releases](https://github.com/61xo/Game-Logic-Maze/releases) section.
 2. Download `Logic Maze`.
 3. Extract and run `Logic Maze.exe`.
 
